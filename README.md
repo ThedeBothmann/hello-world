@@ -1,6 +1,6 @@
 # hello-world
 
-Hello my name is Thede and I'm a dump withe guy.
+Jetzt schreiben wir hier auch was ordentlich hin und keine sinnlosen Zitate
 Ich fange hier gerade erst an, yay.
 
 ~~Hier noch eine zusätzliche Änderung.~~
