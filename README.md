@@ -1,12 +1,17 @@
 # hello-world
 
-Hello my name is Thede and I'm a dump withe guy.
-Ich fange hier gerade erst an, yay.
+## Thede Bothmann
 
-**Was ist mit dieser Änderung??**
+### made by Thede Bothmann
+
+Jetzt lassen wir das mal mit den schlechten Zitaten und machen eine ordentliche Vorstellung.
+
+Ich heiße Thede Bothmann bin 20 Jahre alt und studiere Wirtschaftsmathematik.
+
+Ich fange hier gerade erst an, yay.
 
 ~~Hier noch eine zusätzliche Änderung.~~
 
 ~~Außerdem habe ich noch *diese* Änderung .~~
-Die mag ich aber nicht
- Ok.
+
+Die mag ich aber nicht 
