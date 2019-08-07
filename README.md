@@ -17,4 +17,4 @@ Ich fange hier gerade erst an, yay.
 Die mag ich aber nicht.
 Die hier ist besser
 
-Jetzt fällt mir auch nichts besseres mehr ein.
+Jetzt kommt der Spaß
