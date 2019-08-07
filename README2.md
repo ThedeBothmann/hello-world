@@ -15,6 +15,7 @@ Ich fange hier gerade erst an, yay.
 ~~Außerdem habe ich noch *diese* Änderung .~~
 
 Die mag ich aber nicht.
-Die hier ist besser
 
-*SPASS, SPASS, SPASS!*
+Mäh
+
+~~*SPASS, SPASS, SPASS!*~~
