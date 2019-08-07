@@ -14,4 +14,5 @@ Ich fange hier gerade erst an, yay.
 
 ~~Außerdem habe ich noch *diese* Änderung .~~
 
-Die mag ich aber nicht 
+Die mag ich aber nicht.
+Die hier ist besser.
